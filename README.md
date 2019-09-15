@@ -15,6 +15,6 @@ https://3dwarehouse.sketchup.com/model/147eca8afd2d3da291a714d137f7e052/BMW
 
 Michael's sound: http://www.dashingstrike.com/Automato/games/ATITD/sounds/moneycounter.wav
 
-Mansur's models:
+Mansur's models: TBD
 
-Mansur's sound:
+Mansur's sound: TBD
