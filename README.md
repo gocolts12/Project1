@@ -15,6 +15,12 @@ https://3dwarehouse.sketchup.com/model/147eca8afd2d3da291a714d137f7e052/BMW
 
 Michael's sound: http://www.dashingstrike.com/Automato/games/ATITD/sounds/moneycounter.wav
 
-Mansur's models: TBD
+Mansur's models: 
+https://3dwarehouse.sketchup.com/model/aaf88dea-95bb-492f-b0f6-7161429153fb/Heart
+https://3dwarehouse.sketchup.com/model/d04969c7d57ca56d3bdc1484b50b0501/Party-hat
+https://3dwarehouse.sketchup.com/model/9cd5c2e1dca07e0508dd48e67ad44bc/gold
+https://3dwarehouse.sketchup.com/model/afb34ab7-1ef2-450b-8a2c-5fb84755f68b/US-Money
+https://3dwarehouse.sketchup.com/model/6e5118e02a857ef49572efdd62010c1e/pearl-bracelete
+https://sketchfab.com/3d-models/leonardo-dicaprio-b8c06cacfd1e4dfc8f9484045fddb404
 
-Mansur's sound: TBD
+Mansur's sound: https://www.soundjay.com/crowd-talking-1.html
