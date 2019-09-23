@@ -39,13 +39,13 @@ public class Vb2_Video1 : MonoBehaviour, IVirtualButtonEventHandler
     {
 
         //here is where the button would display the character and play the recording
-        if (state == 0)
+        if (state == 1)
         {
             Video1.active = true;
             Video2.active = false;
             text1.active = false;
         }
-        else if (state == 1)
+        else if (state == 2)
         {
             Video1.active = false;
             Video2.active = true;
@@ -69,7 +69,7 @@ public class Vb2_Video1 : MonoBehaviour, IVirtualButtonEventHandler
 
     void Update()
     {
-        if ( state == 2)
+        if ( state == 4)
         {
             state = 0;
             Video1.active = false;
