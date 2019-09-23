@@ -25,3 +25,4 @@ https://3dwarehouse.sketchup.com/model/6e5118e02a857ef49572efdd62010c1e/pearl-br
 https://sketchfab.com/3d-models/leonardo-dicaprio-b8c06cacfd1e4dfc8f9484045fddb404
 
 Mansur's sound: https://www.soundjay.com/crowd-talking-1.html
+Mansur's lighting: White lighting on the front cover
